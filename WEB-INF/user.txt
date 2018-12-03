@@ -1,0 +1,3 @@
+# id,user,password,–¼,autologin_key
+1,natsume,soseki,‰Ä–ÚŸùÎ,3A3K5bp86
+2,dazai,osamu,‘¾É¡,248CW3a6q
